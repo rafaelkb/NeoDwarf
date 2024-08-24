@@ -1,4 +1,4 @@
-graphics_creatures_building_icons
+graphics_interface_building_icons
 
 [OBJECT:GRAPHICS]
 

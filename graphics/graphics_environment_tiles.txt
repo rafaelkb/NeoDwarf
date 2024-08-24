@@ -1,4 +1,4 @@
-graphics_tiles
+graphics_environment_tiles
 
 [OBJECT:GRAPHICS]
 

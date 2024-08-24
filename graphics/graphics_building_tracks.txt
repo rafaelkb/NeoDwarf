@@ -1,4 +1,4 @@
-graphics_tracks
+graphics_building_tracks
 
 [OBJECT:GRAPHICS]
 

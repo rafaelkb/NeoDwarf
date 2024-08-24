@@ -1,4 +1,4 @@
-graphics_fluids
+graphics_environment_fluids
 
 [OBJECT:GRAPHICS]
 

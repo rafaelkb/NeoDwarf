@@ -1,4 +1,4 @@
-graphics_shapes
+graphics_item_shapes
 
 [OBJECT:GRAPHICS]
 

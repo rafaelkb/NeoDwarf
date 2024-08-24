@@ -1,4 +1,4 @@
-graphics_default
+graphics_interface_defaults
 
 [OBJECT:GRAPHICS]
 

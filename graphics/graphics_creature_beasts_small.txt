@@ -1,4 +1,4 @@
-graphics_beasts_small
+graphics_creature_beasts_small
 
 [OBJECT:GRAPHICS]
 

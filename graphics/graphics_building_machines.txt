@@ -1,4 +1,4 @@
-graphics_machines
+graphics_building_machines
 
 [OBJECT:GRAPHICS]
 

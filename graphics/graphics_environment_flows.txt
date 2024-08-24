@@ -1,4 +1,4 @@
-graphics_flows
+graphics_environment_flows
 
 [OBJECT:GRAPHICS]
 
