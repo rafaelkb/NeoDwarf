@@ -1,4 +1,4 @@
-graphics_individual_trees
+graphics_plant_individual_trees
 
 [OBJECT:GRAPHICS]
 

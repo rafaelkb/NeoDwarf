@@ -1,4 +1,4 @@
-graphics_workshops
+graphics_building_workshops
 
 [OBJECT:GRAPHICS]
 

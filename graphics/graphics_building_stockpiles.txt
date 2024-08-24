@@ -1,4 +1,4 @@
-graphics_stockpiles
+graphics_building_stockpiles
 
 [OBJECT:GRAPHICS]
 

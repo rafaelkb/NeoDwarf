@@ -1,4 +1,4 @@
-graphics_spatters
+graphics_environment_spatters
 
 [OBJECT:GRAPHICS]
 

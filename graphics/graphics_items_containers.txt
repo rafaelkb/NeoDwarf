@@ -1,4 +1,4 @@
-graphics_containers
+graphics_items_containers
 
 [OBJECT:GRAPHICS]
 

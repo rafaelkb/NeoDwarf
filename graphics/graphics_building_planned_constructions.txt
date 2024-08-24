@@ -1,4 +1,4 @@
-graphics_planned_constructions
+graphics_building_planned_constructions
 
 [OBJECT:GRAPHICS]
 

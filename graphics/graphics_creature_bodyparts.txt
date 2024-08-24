@@ -1,4 +1,4 @@
-graphics_bodyparts
+graphics_creature_bodyparts
 
 [OBJECT:GRAPHICS]
 

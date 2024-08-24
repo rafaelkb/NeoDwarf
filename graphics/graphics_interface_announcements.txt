@@ -1,4 +1,4 @@
-graphics_announcements
+graphics_interface_announcements
 
 [OBJECT:GRAPHICS]
 

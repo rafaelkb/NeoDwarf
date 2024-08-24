@@ -1,4 +1,4 @@
-graphics_classic
+graphics_interface_classic
 
 [OBJECT:GRAPHICS]
 

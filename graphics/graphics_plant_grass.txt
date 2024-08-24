@@ -1,4 +1,4 @@
-graphics_grass
+graphics_plant_grass
 
 [OBJECT:GRAPHICS]
 
