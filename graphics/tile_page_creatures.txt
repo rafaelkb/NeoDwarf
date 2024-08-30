@@ -122,36 +122,61 @@ tile_page_creatures
 
 
 
+[TILE_PAGE:HUMAN_BODY_SPECIAL]
+	[FILE:images/creature/HUMAN/HUMAN_body_special.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:288:672]
+
 [TILE_PAGE:HUMAN_BODY]
-	[FILE:images/creature/human_body.png]
+	[FILE:images/creature/HUMAN/HUMAN_body.png]
 	[TILE_DIM:32:32]
 	[PAGE_DIM_PIXELS:288:864]
 
-[TILE_PAGE:HUMAN_HAIR_STRAIGHT]
-	[FILE:images/creature/human_hair_straight.png]
+[TILE_PAGE:HUMAN_HAIR_STRAIGHT_FRONT]
+	[FILE:images/creature/HUMAN/HUMAN_hair_straight_front.png]
 	[TILE_DIM:32:32]
-	[PAGE_DIM_PIXELS:256:1184]
+	[PAGE_DIM_PIXELS:256:1056]
 
-[TILE_PAGE:HUMAN_HAIR_CURLY]
-	[FILE:images/creature/human_hair_curly.png]
+[TILE_PAGE:HUMAN_HAIR_CURLY_BACK]
+	[FILE:images/creature/HUMAN/HUMAN_hair_curly_back.png]
 	[TILE_DIM:32:32]
-	[PAGE_DIM_PIXELS:256:736]
+	[PAGE_DIM_PIXELS:256:1056]
+
+[TILE_PAGE:HUMAN_HAIR_CURLY_FRONT]
+	[FILE:images/creature/HUMAN/HUMAN_hair_curly_front.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:256:1056]
+
+[TILE_PAGE:HUMAN_HAIR_BEARD]
+	[FILE:images/creature/HUMAN/HUMAN_hair_beard.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:256:448]
+
+[TILE_PAGE:HUMAN_HAIR_MOUSTACHE]
+	[FILE:images/creature/HUMAN/HUMAN_hair_moustache.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:256:448]
 
 [TILE_PAGE:HUMAN_CLOTHING]
-	[FILE:images/creature/human_clothes.png]
+	[FILE:images/creature/HUMAN/HUMAN_clothes.png]
 	[TILE_DIM:32:32]
-	[PAGE_DIM_PIXELS:576:736]
+	[PAGE_DIM_PIXELS:608:1728]
 
 [TILE_PAGE:HUMAN_ARMOR]
-	[FILE:images/creature/human_armor.png]
+	[FILE:images/creature/HUMAN/HUMAN_armor.png]
 	[TILE_DIM:32:32]
 	[PAGE_DIM_PIXELS:416:800]
 
-[TILE_PAGE:HUMAN_WIELDABLES]
-	[FILE:images/creature/human_wieldables.png]
+[TILE_PAGE:HUMAN_WIELDABLES_RIGHT]
+	[FILE:images/creature/HUMAN/HUMAN_wieldables_right.png]
 	[TILE_DIM:32:32]
-	[PAGE_DIM_PIXELS:960:864]
-	
+	[PAGE_DIM_PIXELS:992:832]
+
+[TILE_PAGE:HUMAN_WIELDABLES_LEFT]
+	[FILE:images/creature/HUMAN/HUMAN_wieldables_left.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:992:832]
+
 	GOBLIN
 	
 [TILE_PAGE:GOBLIN_BODY_SPECIAL]
@@ -271,27 +296,61 @@ tile_page_creatures
 	KOBOLD
 	
 
+
+[TILE_PAGE:KOBOLD_BODY_SPECIAL]
+	[FILE:images/creature/KOBOLD/KOBOLD_body_special.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:288:672]
+
 [TILE_PAGE:KOBOLD_BODY]
-	[FILE:images/creature/kobold_body.png]
+	[FILE:images/creature/KOBOLD/KOBOLD_body.png]
 	[TILE_DIM:32:32]
 	[PAGE_DIM_PIXELS:288:864]
 
-[TILE_PAGE:KOBOLD_CLOTHING]
-	[FILE:images/creature/kobold_clothes.png]
+[TILE_PAGE:KOBOLD_HAIR_STRAIGHT_FRONT]
+	[FILE:images/creature/KOBOLD/KOBOLD_hair_straight_front.png]
 	[TILE_DIM:32:32]
-	[PAGE_DIM_PIXELS:576:736]
+	[PAGE_DIM_PIXELS:256:1056]
+
+[TILE_PAGE:KOBOLD_HAIR_CURLY_BACK]
+	[FILE:images/creature/KOBOLD/KOBOLD_hair_curly_back.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:256:1056]
+
+[TILE_PAGE:KOBOLD_HAIR_CURLY_FRONT]
+	[FILE:images/creature/KOBOLD/KOBOLD_hair_curly_front.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:256:1056]
+
+[TILE_PAGE:KOBOLD_HAIR_BEARD]
+	[FILE:images/creature/KOBOLD/KOBOLD_hair_beard.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:256:448]
+
+[TILE_PAGE:KOBOLD_HAIR_MOUSTACHE]
+	[FILE:images/creature/KOBOLD/KOBOLD_hair_moustache.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:256:448]
+
+[TILE_PAGE:KOBOLD_CLOTHING]
+	[FILE:images/creature/KOBOLD/KOBOLD_clothes.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:608:1728]
 
 [TILE_PAGE:KOBOLD_ARMOR]
-	[FILE:images/creature/kobold_armor.png]
+	[FILE:images/creature/KOBOLD/KOBOLD_armor.png]
 	[TILE_DIM:32:32]
-	[PAGE_DIM_PIXELS:416:768]
+	[PAGE_DIM_PIXELS:416:800]
 
-[TILE_PAGE:KOBOLD_WIELDABLES]
-	[FILE:images/creature/kobold_wieldables.png]
+[TILE_PAGE:KOBOLD_WIELDABLES_RIGHT]
+	[FILE:images/creature/KOBOLD/KOBOLD_wieldables_right.png]
 	[TILE_DIM:32:32]
-	[PAGE_DIM_PIXELS:960:864]
-	
-	
+	[PAGE_DIM_PIXELS:992:832]
+
+[TILE_PAGE:KOBOLD_WIELDABLES_LEFT]
+	[FILE:images/creature/KOBOLD/KOBOLD_wieldables_left.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:992:832]
 	
 
 [TILE_PAGE:CREATURES_MEGABEAST]
