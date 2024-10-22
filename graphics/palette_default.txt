@@ -123,3 +123,7 @@ Right now 255 colors maximum can be supported across all palettes.
 	[PALETTE_COLOR:YELLOW:114]
 	[PALETTE_COLOR:YELLOW_GREEN:115]
 	[PALETTE_COLOR:BLUE-GRAY:116]
+
+[PALETTE:NEX_BODY]
+	[FILE:images/nex_body_palettes.png]
+	[PALETTE_DEFAULT:0] this is the one used in the images themselves
