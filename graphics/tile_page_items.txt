@@ -110,7 +110,7 @@ tile_page_items
 [TILE_PAGE:CONTAINERS]
 	[FILE:images/containers.png]
 	[TILE_DIM:32:32]
-	[PAGE_DIM_PIXELS:256:160]
+	[PAGE_DIM_PIXELS:256:320]
 
 [TILE_PAGE:ITEM_COFFIN]
 	[FILE:images/coffins.png]

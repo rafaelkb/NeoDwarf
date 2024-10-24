@@ -286,3 +286,8 @@ tile_page_interface
 	[FILE:images/sound_indicators.png]
 	[TILE_DIM:32:32]
 	[PAGE_DIM_PIXELS:128:288]
+
+[TILE_PAGE:TRACKING_SYMBOLS]
+	[FILE:images/tracking_symbols.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:512:928]
