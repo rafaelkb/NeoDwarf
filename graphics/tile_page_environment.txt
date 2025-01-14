@@ -87,6 +87,11 @@ tile_page_environment
 	[TILE_DIM:32:32]
 	[PAGE_DIM_PIXELS:384:160]
 
+[TILE_PAGE:FLOOR_PEBBLES]
+	[FILE:images/floor_pebbles.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:384:32]
+
 [TILE_PAGE:FLOOR_METAL]
 	[FILE:images/metal_floor.png]
 	[TILE_DIM:32:32]
