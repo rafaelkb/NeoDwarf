@@ -195,7 +195,7 @@ tile_page_interface
 [TILE_PAGE:INTERFACE_BITS_DISPLAY_TOGGLES]
 	[FILE:images/interface_bits_display_toggles.png]
 	[TILE_DIM:8:12]
-	[PAGE_DIM:8:4]
+	[PAGE_DIM:8:10]
 
 [TILE_PAGE:MINING_INDICATORS]
 	[FILE:images/mining_indicators.png]
@@ -220,7 +220,7 @@ tile_page_interface
 [TILE_PAGE:INTERFACE_BITS_ADVENTURE]
 	[FILE:images/interface_bits_adventure.png]
 	[TILE_DIM:8:12]
-	[PAGE_DIM_PIXELS:416:132]
+	[PAGE_DIM_PIXELS:416:168]
 
 [TILE_PAGE:INTERFACE_BITS_ADVENTURE_INVENTORY]
 	[FILE:images/interface_bits_adventure_inventory.png]
@@ -291,3 +291,33 @@ tile_page_interface
 	[FILE:images/tracking_symbols.png]
 	[TILE_DIM:32:32]
 	[PAGE_DIM_PIXELS:512:928]
+
+[TILE_PAGE:VAMPIRE_SENSE_MARKERS]
+	[FILE:images/vampire_sense_markers.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:1:1]
+
+[TILE_PAGE:STEALTH_VISION]
+	[FILE:images/stealth_vision.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:2:3]
+
+[TILE_PAGE:MEMORY_MAP]
+	[FILE:images/memory_map.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:1:11]
+
+[TILE_PAGE:ADV_ENV_TEMPERATURE]
+	[FILE:images/adv_env_temperature.png]
+	[TILE_DIM:8:12]
+	[PAGE_DIM_PIXELS:128:108]
+
+[TILE_PAGE:ADV_ENV_WEATHER]
+	[FILE:images/adv_env_weather.png]
+	[TILE_DIM:8:12]
+	[PAGE_DIM_PIXELS:288:252]
+
+[TILE_PAGE:ADV_ENV_ODOR]
+	[FILE:images/adv_env_odor.png]
+	[TILE_DIM:8:12]
+	[PAGE_DIM_PIXELS:192:72]
