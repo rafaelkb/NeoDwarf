@@ -181,3 +181,8 @@ tile_page_items
 	[FILE:images/item_slab.png]
 	[TILE_DIM:32:32]
 	[PAGE_DIM:2:23]
+
+[TILE_PAGE:ITEM_REMNANTS]
+	[FILE:images/remnants.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:4:5]
