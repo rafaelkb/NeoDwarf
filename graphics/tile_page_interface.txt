@@ -2,6 +2,14 @@ tile_page_interface
 
 [OBJECT:TILE_PAGE]
 
+
+Cannot be referenced in scripts without being used elsewhere
+TILE_GRAPHICS:HACK_BLACKBG:0:0:WATER in graphics_defaults
+[TILE_PAGE:HACK_BLACKBG]
+	[FILE:images/black_background.bmp]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:1:1]
+
 [TILE_PAGE:INTERFACE_BITS_SHARED]
 	[FILE:images/interface_bits_shared.png]
 	[TILE_DIM:8:12]
