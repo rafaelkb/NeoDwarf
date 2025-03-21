@@ -1,4 +1,4 @@
-graphics_creatures_dwarf
+graphics_creatures_elf
 
 [OBJECT:GRAPHICS]
 
@@ -9,7 +9,7 @@ graphics_creatures_dwarf
 	[LAYER_SET:BABY:DEFAULT]
 
 	[LS_PALETTE:BODY]
-		[LS_PALETTE_FILE:images/dwarf/dwarf_child_body_palettes.png]
+		[LS_PALETTE_FILE:images/elf/elf_child_body_palettes.png]
 		[LS_PALETTE_DEFAULT:0]
 
 	body
@@ -56,13 +56,13 @@ graphics_creatures_dwarf
 	[LAYER_SET:CHILD:DEFAULT]
 
 	[LS_PALETTE:BODY]
-		[LS_PALETTE_FILE:images/dwarf/dwarf_child_body_palettes.png]
+		[LS_PALETTE_FILE:images/elf/elf_child_body_palettes.png]
 		[LS_PALETTE_DEFAULT:0]
 	[LS_PALETTE:HAIR]
-		[LS_PALETTE_FILE:images/dwarf/dwarf_child_hair_palettes.png]
+		[LS_PALETTE_FILE:images/elf/elf_child_hair_palettes.png]
 		[LS_PALETTE_DEFAULT:0]
 	[LS_PALETTE:CLOTHES]
-		[LS_PALETTE_FILE:images/dwarf/dwarf_child_clothes_palettes.png]
+		[LS_PALETTE_FILE:images/elf/elf_child_clothes_palettes.png]
 		[LS_PALETTE_DEFAULT:0]
 
 	cape
@@ -3319,13 +3319,13 @@ graphics_creatures_dwarf
 	[LAYER_SET:DEFAULT]
 
 	[LS_PALETTE:BODY]
-		[LS_PALETTE_FILE:images/dwarf/dwarf_body_palettes.png]
+		[LS_PALETTE_FILE:images/elf/elf_body_palettes.png]
 		[LS_PALETTE_DEFAULT:0]
 	[LS_PALETTE:HAIR]
-		[LS_PALETTE_FILE:images/dwarf/dwarf_hair_palettes.png]
+		[LS_PALETTE_FILE:images/elf/elf_hair_palettes.png]
 		[LS_PALETTE_DEFAULT:0]
 	[LS_PALETTE:CLOTHES]
-		[LS_PALETTE_FILE:images/dwarf/dwarf_clothes_palettes.png]
+		[LS_PALETTE_FILE:images/elf/elf_clothes_palettes.png]
 		[LS_PALETTE_DEFAULT:0]
 
 	cape
