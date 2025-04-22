@@ -150,7 +150,7 @@ tile_page_items
 [TILE_PAGE:WEAPONS]
 	[FILE:images/item_weapons.png]
 	[TILE_DIM:32:32]
-	[PAGE_DIM_PIXELS:96:672]
+	[PAGE_DIM_PIXELS:160:672]
 
 [TILE_PAGE:ITEM_WEBS]
 	[FILE:images/item_webs.png]
